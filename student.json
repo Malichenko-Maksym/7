@@ -1,0 +1,12 @@
+{
+    "name": "Max",
+    "surname": "Malichenko",
+    "age": 17,
+    "men": true,
+    "university": "UEK",
+    "grades": [
+        5,
+        4.5,
+        5.5
+    ]
+}
